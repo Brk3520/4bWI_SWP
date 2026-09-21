@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+  background-color: lightblue;
+}
+
+div {
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+h1 {
+  color: darkblue;
+}
+
+p {
+  color: black;
+}
+
+a {
+  color: red;
+}
